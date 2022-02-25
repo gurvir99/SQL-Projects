@@ -1,5 +1,4 @@
---
-
+-- SQL Queries using 2 tables: CovidDeaths and CovidVaccinations
 
 -- Select Data from the CovidDeaths table
 Select Location, date, total_cases, new_cases, total_deaths, population
